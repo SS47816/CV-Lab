@@ -33,3 +33,6 @@ Experimenting with some recent computer vision papers
 * [COCO](http://cocodataset.org/#home)
 * [KITTI](http://www.cvlibs.net/datasets/kitti/)
 * [nuScene](https://www.nuscenes.org/)
+
+## External Links
+1. [Papers with Code](https://paperswithcode.com/area/computer-vision)
